@@ -47,5 +47,10 @@
     },
     "config": {
         "sort-packages": true
+    },
+    "extra": {
+        "laminas": {
+            "config-provider": "Antidot\\Persistence\\DBAL\\Container\\Config\\ConfigProvider"
+        }
     }
 }
