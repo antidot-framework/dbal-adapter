@@ -25,7 +25,9 @@ class ConfigProvider
         ],
     ];
 
-
+    /**
+     * @return array<mixed>
+     */
     public function __invoke(): array
     {
         return self::DEFAULT_CONFIG;
