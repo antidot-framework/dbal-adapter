@@ -29,7 +29,7 @@ class DBALConnectionFactoryTest extends TestCase
     /** @var \PHPUnit\Framework\MockObject\MockObject|ContainerInterface */
     private $container;
 
-    public function setUp(): void
+    protected function setUp(): void
     {
         $this->factory = new DBALConnectionFactory();
         $this->container = $this->createMock(ContainerInterface::class);
