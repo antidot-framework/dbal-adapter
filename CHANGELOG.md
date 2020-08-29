@@ -1,8 +1,18 @@
 # Changelog
 
-## [1.0.1](https://github.com/antidot-framework/dbal-adapter/tree/HEAD)
+## [1.0.2](https://github.com/antidot-framework/dbal-adapter/tree/1.0.2)
 
-[Full Changelog](https://github.com/antidot-framework/dbal-adapter/compare/1.0.0...HEAD)
+[Full Changelog](https://github.com/antidot-framework/dbal-adapter/compare/1.0.1...1.0.2)
+
+**Merged pull requests:**
+
+- update phpunit configuration format [\#9](https://github.com/antidot-framework/dbal-adapter/pull/9) ([kpicaza](https://github.com/kpicaza))
+- Update phpro/grumphp requirement from ^0.15.0 || ^0.19.0 to ^0.15.0 || ^0.19.0 || ^0.21.0 [\#8](https://github.com/antidot-framework/dbal-adapter/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Improve PHPUnit fixtures about setUp [\#7](https://github.com/antidot-framework/dbal-adapter/pull/7) ([peter279k](https://github.com/peter279k))
+
+## [1.0.1](https://github.com/antidot-framework/dbal-adapter/tree/1.0.1) (2020-07-19)
+
+[Full Changelog](https://github.com/antidot-framework/dbal-adapter/compare/1.0.0...1.0.1)
 
 **Merged pull requests:**
 
