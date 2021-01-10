@@ -1,6 +1,19 @@
 # Changelog
 
-## [1.0.2](https://github.com/antidot-framework/dbal-adapter/tree/1.0.2)
+## [1.0.3](https://github.com/antidot-framework/dbal-adapter/tree/1.0.3) (2021-01-10)
+
+[Full Changelog](https://github.com/antidot-framework/dbal-adapter/compare/1.0.2...1.0.3)
+
+**Implemented enhancements:**
+
+- add php8 support [\#14](https://github.com/antidot-framework/dbal-adapter/pull/14) ([kpicaza](https://github.com/kpicaza))
+
+**Merged pull requests:**
+
+- Update phpro/grumphp requirement from ~0.17 to ~0.17 || ~1.0 [\#12](https://github.com/antidot-framework/dbal-adapter/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Update phpro/grumphp requirement from ^0.15.0 || ^0.19.0 || ^0.21.0 to ~0.17 [\#10](https://github.com/antidot-framework/dbal-adapter/pull/10) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [1.0.2](https://github.com/antidot-framework/dbal-adapter/tree/1.0.2) (2020-08-29)
 
 [Full Changelog](https://github.com/antidot-framework/dbal-adapter/compare/1.0.1...1.0.2)
 
